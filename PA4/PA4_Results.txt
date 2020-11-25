@@ -1,0 +1,83 @@
+Player 5 successfully entered @ (6,3)
+Player 6 successfully entered @ (8,2)
+Player 7 successfully entered @ (9,3)
+Player 8 successfully entered @ (9,8)
+Sorry! Player ID (3) already in use
+Someone's already in that spot! (9,8)
+The move is valid.... Moving Player 4
+Player with key 7 has been removed.
+Printing game board...
+Player 1 @ (3,2)
+Player 2 @ (4,3)
+Player 3 @ (4,6)
+Player 4 @ (9,3)
+Player 5 @ (6,3)
+Player 6 @ (8,2)
+Player 8 @ (9,8)
+
+The move is valid.... Moving Player 4
+Player with key 8 has been removed.
+Printing game board...
+Player 1 @ (3,2)
+Player 2 @ (4,3)
+Player 3 @ (4,6)
+Player 4 @ (9,8)
+Player 5 @ (6,3)
+Player 6 @ (8,2)
+
+Invalid move! Must be up, down or diagonal
+Not within the board limits!
+Printing game board...
+Player 1 @ (3,2)
+Player 2 @ (4,3)
+Player 3 @ (4,6)
+Player 4 @ (9,8)
+Player 5 @ (6,3)
+Player 6 @ (8,2)
+
+Printing game board...
+Player 1 @ (3,2)
+Player 2 @ (3,3)
+Player 3 @ (4,6)
+Player 4 @ (9,8)
+Player 5 @ (6,3)
+Player 6 @ (8,2)
+
+The move is valid.... Moving Player 4
+Player with key 1 has been removed.
+Printing game board...
+Player 2 @ (3,3)
+Player 3 @ (4,6)
+Player 4 @ (3,2)
+Player 5 @ (6,3)
+Player 6 @ (8,2)
+
+The move is valid.... Moving Player 4
+Player with key 6 has been removed.
+Printing game board...
+Player 2 @ (3,3)
+Player 3 @ (4,6)
+Player 4 @ (8,2)
+Player 5 @ (6,3)
+
+The move is valid.... Moving Player 5
+Player with key 2 has been removed.
+Printing game board...
+Player 3 @ (4,6)
+Player 4 @ (8,2)
+Player 5 @ (3,3)
+
+The move is valid.... Moving Player 4
+Player with key 3 has been removed.
+Printing game board...
+Player 4 @ (4,6)
+Player 5 @ (3,3)
+
+Printing game board...
+Player 4 @ (4,6)
+Player 5 @ (4,3)
+
+The move is valid.... Moving Player 4
+Player with key 5 has been removed.
+Printing game board...
+Player 4 @ (4,3)
