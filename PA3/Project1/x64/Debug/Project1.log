@@ -1,0 +1,9 @@
+﻿  JosephusList.cpp
+c:\users\travi\google drive\school\junior year\cpts 223\pa3\project1\josephuslist.cpp(46): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  JosephusVector.cpp
+c:\users\travi\google drive\school\junior year\cpts 223\pa3\project1\josephusvector.cpp(45): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Person.cpp
+  TestJosephusList.cpp
+  TestJosephusVector.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\travi\Google Drive\School\Junior year\CptS 223\PA3\x64\Debug\Project1.exe
